@@ -5,7 +5,7 @@ Final project submissions include:
   - Code
     - ExpertSearch_LDA.ipynb
     - ExpertSearch.zip
-  - Software usage tutorial presentation.mp4
+  - Software usage tutorial presentation link
  
 
 
