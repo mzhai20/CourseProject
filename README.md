@@ -1,7 +1,7 @@
 # CourseProject
 
 Final project submissions include:
-  - Documentation
+  - Documentation.pdf
   - Code
     - ExpertSearch_LDA.ipynb
     - ExpertSearch.zip
